@@ -1,6 +1,6 @@
 Legion font
 
-By Owen-A
+By Owen-A and lyerelian
 
 A symbol font for the Star Wars Legion Miniatures Game, by Fantasy Flight Games. 
 
